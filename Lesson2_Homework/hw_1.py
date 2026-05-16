@@ -1,0 +1,1 @@
+print("Hello \"World\"!\nWhat a beatiful day!\nThis is a great \\time to write some Python code.\nI\'m exited to work on homework 2 as well.")
