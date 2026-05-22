@@ -63,7 +63,7 @@ while (choice != "exit") :
         else:
             print("You Cannot afford Pie! You have", round(total_gold_coin,2), "gold")
     else:
-        print("Invalid Choice. Retry!")   #informing user about thier choice if the choice isnot present Menu
+        print("Invalid Choice. Retry!")   #informing user about thier choice if the choice is not present in Menu
 
 print("\n---Shopping Summary---")
 print("Items Purchased: ",items)
