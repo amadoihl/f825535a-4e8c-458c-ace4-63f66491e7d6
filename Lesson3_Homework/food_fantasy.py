@@ -26,7 +26,7 @@ while (choice != "exit") :
     elif choice == "bread":
         if total_gold_coin >= 0.75:    #checking if balance is sufficient for the purchase
              total_gold_coin -= 0.75   #updating new balance by decreasing it by purchase value
-             items = items + " Bread"  #concating string
+             items = items + " Bread,"  #concating string
              print("You Bought Bread for 0.75 gold.\n","Remaining Balance:", round(total_gold_coin,2))
         else:
             print("You Cannot afford Bread! You have", round(total_gold_coin,2), "gold")
