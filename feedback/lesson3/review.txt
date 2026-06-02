@@ -1,0 +1,2 @@
+Homework 1: Like in lesson 2 homework. There are a few extra spaces before some of the single line comments. However, that is nothing to worry about.
+Everything looks good, thank you!
