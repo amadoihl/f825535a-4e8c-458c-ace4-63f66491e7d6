@@ -1,0 +1,11 @@
+Thank you for uploading the homework!
+
+Below is some feedback.
+
+For homework 2, part 3: you need one print() per input, not both in the same one. Use end=" " on the first print so they still show up on the same line.
+
+In homework 3: there are extra blank lines between the rows of stars. It's because your strings already end with \n and sep="\n" adds another one. Remove the \n from the strings and let sep take care of it.
+
+Challenge 1: same problem as homework 3, fix the newlines and it should work.
+
+Rest opf the homework looks good!

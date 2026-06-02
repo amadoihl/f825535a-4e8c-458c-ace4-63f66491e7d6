@@ -1,0 +1,3 @@
+For homework 2: It looks fine, the only think is that there is an extra space in the output before the type. Your string already has a space at the end and print() adds another one between arguments. Remove the trailing space from the string or add sep="" to fix it.
+
+The rest of the homework looks good :)
