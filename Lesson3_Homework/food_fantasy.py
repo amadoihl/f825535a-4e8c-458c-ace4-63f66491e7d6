@@ -6,7 +6,7 @@ print("--------------------------------------")
 bronze_coin = int(input("Enter Bronze Coins: "))
 silver_coin = int(input("Enter Silver Coins: "))
 gold_coin = int(input("Enter Gold Coins: "))
-total_gold_coin = gold_coin + silver_coin/10 + bronze_coin/1000 #converting all coins into gold coins
+total_gold_coin = (gold_coin + silver_coin/10 + bronze_coin/1000) #converting all coins into gold coins
 print("\nYour Total:", round(total_gold_coin,4), "Gold Coins")
 choice = "Noexit"
 items = ""
