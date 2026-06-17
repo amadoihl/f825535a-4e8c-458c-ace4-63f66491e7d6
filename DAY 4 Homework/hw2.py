@@ -15,12 +15,12 @@ j+=" world!"
 print(j)      # hello world!
 
 k=3.9
-k+='four'     # TypeError
+k+='four'     # typeError
 
 l="value"
-l-="e"        # TypeError
+l-="e"        # typeError
 
 m="hello'
 m+='world!"  
-# SyntaxError
+# syntaxerror
 
