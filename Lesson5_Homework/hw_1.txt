@@ -1,0 +1,22 @@
+a = --7
+ #Is valid?-> Yes, because here its acts as double negative ie -(-7) --> which is 7 so the expected output is 7
+
+b = 0xB 
+ #Is valid? --> Yes, B = 11 in hexadecimal, so the expected output is 11
+
+c = 2 + 3 
+ #Is valid? --> Yes, 'c=2+3' is expression and 2 and 3 are oprands and + is operator, the operator perform addition in
+ #oprand 2 and 3 and store value in c, so the expected output will be 5
+
+d = 2 - -3
+ #Is valid? --> Yes, same as above but - * - = + so the expected output will be 2+3=5
+
+4 + 1 = e
+ #Is valid? -->No, we cannot assign the value of character to integer (4+1=5), so the expected output will be error
+
+4 + 1 == f
+#Is valid? -->No, f has not been declared and the value in f is unknown, so the expected output is Error 
+
+g = 10; g++
+#Is valid? -->No, we cannot used increment or decrement in Python like C and Cpp, so the expected output is error
+ 

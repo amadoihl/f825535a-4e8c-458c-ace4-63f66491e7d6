@@ -1,0 +1,21 @@
+ h = 5; h += 2.3
+ #Is valid? -->Yes, 2.3 will be added in existing value of h ie 5 and the updated value of h will be 7.3
+ 
+i = 2.7; i -= 6
+#Is valid? -->Yes, same as above the new value of i will be (2.7-6) --> -3.3
+
+j = 'hello'; j +="word"
+#Is valid? -->Yes, the + operator perform string concatation, so the expected output is 'helloworld'
+
+k = 3.9; k += 'four'
+#Is valid? -->No, we cannot use number in its word it must be written in numercical values for arthematic operation, so the expected output is Error
+
+l = "value"; I -="e"
+#Is valid? -->No, we cannot subtract the value of string
+
+m = "hello'; m += 'world!"
+#Is valid? -->No, the string in python must start and end with single type of Quotes, so the expected output is Error
+
+n = '7'; n += 5*'*5'
+#Is valid? --> Yes, python allows to multiply a string with integer for repetiton, first 5*'*5' is evaluated as *5*5*5*5*5 then strings are concateted so the expected output is 
+#7*5*5*5*5*5

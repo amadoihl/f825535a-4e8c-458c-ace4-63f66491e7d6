@@ -1,0 +1,26 @@
+#Given;
+a = 7
+b = 0xB
+c = 3 + 1
+d = '4'
+
+b == 0x1011
+#Is True? --> No, 0x1011 in hex is 4113 and  11 == 4113 is false
+
+a + c == b
+#Is True? -->Yes, it check 7 + 4 == 11 which is True
+
+c != d
+#Is True? -->Yes, an integer with value 4 is never equal to character '4'
+
+(a-c)**(a-c) >= b << 1
+#Is True? -->Yes, it checks 3**3 >= 11 << 1 which is 27 >=22 which is True
+
+(c-a)**(b-c-a) != b >> 3
+#Is True? -->No, it checks (-3)**0 != 11 >> 3 which is 1 != 1 which is True 
+
+int(d) <= c 
+#Is True? -->Yes, int('4') converts the text into integer 4, checking 4 <= 4 which is True
+
+2*c - b >> 1 <= 0
+#Is True? -->Yes, (8-11)>> 1 <= 0 which is -3 >> 1 <=0 --> -2 <=0 which is True
