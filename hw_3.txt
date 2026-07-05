@@ -1,0 +1,6 @@
+I like the f.string method the most because it is easy to read and give
+the output in organized way in all float, int and string value
+
+I like the template string least because using it make program look like
+complex for simple printing statement and we need to replace or substitue again
+so it is time consuming and complex 
