@@ -1,0 +1,9 @@
+ Boolean Expression  True / False with Result 
+
+ a < 0b100         False (7 < 4)      
+ a + c <= b        True (11 <= 11)    
+ c != d            True (4 != '4')    
+ b - a > c         False (4 > 4)      
+ b - a >= c        True (4 >= 4)      
+ c != int(d)       False (4 != 4)     
+ b - a == int(d)   True (4 == 4)      
