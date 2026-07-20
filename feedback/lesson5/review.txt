@@ -1,0 +1,7 @@
+Homework 1: all seven are correct, good explanations.
+
+Homework 2: This one looks good!
+
+Homework 3: all seven are right. Just a tiny wording thing on the (c-a)**(b-c-a) != b >> 3 one, you correctly answer "No" up top and get 1 != 1, but then write "which is True" at the end when it should say False, doesn't change the answer, just the wording.
+
+Homework 4: ran it, all the arithmetic and bitwise results for 51 and 17 are correct.

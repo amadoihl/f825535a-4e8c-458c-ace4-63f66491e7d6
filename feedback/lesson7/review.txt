@@ -1,0 +1,3 @@
+Homework 2: ran it, the tax and card fee logic is correct (tax applied first, then the 3% card charge on top). One small thing, the total isn't rounded so it prints things like 179.2406, worth formatting it to 2 decimals with {total:.2f} since it's money.
+
+I don't see homework 1 (evaluating expressions) yet, let me know if that one's still coming.

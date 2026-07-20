@@ -1,0 +1,5 @@
+Homework 1: all seven boolean expressions are correct.
+
+Homework 2: tested all four formatting methods, they all print the right total.
+
+Homework 3: nice reflection, good reasoning on why f-strings feel cleaner and Template feels like more setup for a simple print.

@@ -1,0 +1,9 @@
+Homeworks 1, 2 and 3 are all correct, the manual conversion loop in hw_3 for 215 works well.
+
+Homework 4: the decimal value you get is right, but bin(decimal) prints "0b10010001", which only shows 8 bits, the leading zero of the 9-bit answer (010010001) gets dropped since bin() doesn't pad. Also, right now the complement is just typed in as a string instead of being computed from num, worth writing the bit-flip in code so it works for any input, not just this one.
+
+hw_5.py and hw_6.py just have a "#picture" comment in them, looks like the photos of your written work didn't actually get attached, can you upload those?
+
+Homework 7: the AND/OR/XOR/NOT and shifts all work correctly, but it's still missing the even/odd check with & 1 and the bitmask part.
+
+hw_8.py is empty, that one hasn't been started yet.
