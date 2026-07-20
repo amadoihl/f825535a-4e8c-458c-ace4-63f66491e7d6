@@ -1,0 +1,5 @@
+Homework 4: ran your program for 51 and 17, all the arithmetic and bitwise operators check out. You could also throw in the comparison operators (<, >, ==, etc.) since those count as numeric operators too, but what you have is correct.
+
+Found Homeworks 1 to 3 in the PDF you shared together with lesson 4, and that also looks complete.
+
+Good work!

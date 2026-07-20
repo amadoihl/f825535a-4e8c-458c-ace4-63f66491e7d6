@@ -1,0 +1,9 @@
+Thanks for uploading the lesson 4 work!
+
+Homework 3: your program converts 215 to binary, octal and hex correctly (11010111, 327, D7). Nice and clean with the while loops.
+
+Homework 4: the two's complement program is correct too, 010010001 is right.
+
+I went through the written pages you uploaded (the PDF covering lessons 4 and 5) for the by-hand conversions and the bitwise questions, and it looks complete.
+
+I don't see homework 7 (the python program with AND/OR/XOR, the even/odd check and the bitmask) anywhere though. Let me know if I just missed it, otherwise please upload that one when you get a chance.

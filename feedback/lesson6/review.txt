@@ -1,0 +1,5 @@
+Homework 1: all seven boolean expressions are correct, including c != d, nice catch on that one, a lot of people miss that 4 != '4' is True because one is an int and the other is a string.
+
+Homework 2: tested the receipt with all four methods (%, .format, f-string and Template) and they all give the right total. Good job getting the Template one working, that one trips people up.
+
+I don't see homework 3 (developing your style) yet, that's the short reflection one, no wrong answers there so whenever you get a chance just add a few lines.
