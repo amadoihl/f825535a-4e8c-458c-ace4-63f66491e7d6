@@ -1,0 +1,7 @@
+Homework 1: a, b, c and d all print the right values, and you correctly flagged g=10; g++ as invalid. I don't see the other two items though (4 + 1 = e and 4 + 1 == f), looks like those got skipped.
+
+Homework 2: this one doesn't actually run right now. Python has to read through the whole file before running any of it, and the m = "hello' line has a real unterminated string, so it throws a SyntaxError immediately, before it even gets to print h, i, n and j. The k += 'four' and l -= "e" lines are also live code, not comments, so even if the m line were fixed those would crash it too. Comment those three lines out like you did the rest and it'll run fine and print the correct values.
+
+Homework 3: ran it, all seven results are correct.
+
+Homework 4: this one's great, you covered arithmetic, bitwise and comparison operators for 51 and 17, all correct.
